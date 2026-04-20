@@ -49,7 +49,7 @@
       <blockquote>バックエンドのロジック構築に寄与</blockquote>
     </td>
     <td width="50%" valign="top">
-      <b>📦 SCIT 物流マッチングシステム</b><br><br>
+      <b>📦 SEAIRHUB 物流マッチングシステム</b><br><br>
       逆オークションロジックベースの物流マッチングシステム<br><br>
       <b>🎯 主な機能</b>
       <ul>
